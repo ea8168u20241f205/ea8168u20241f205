@@ -1,0 +1,58 @@
+{
+  "navigation": {
+    "main": "Navegación principal",
+    "toolbar": "Barra de herramientas",
+    "workspace": "Espacio de trabajo",
+    "language": "Idioma",
+    "open-menu": "Abrir navegación"
+  },
+  "home": {
+    "title": "Inicio",
+    "subtitle": "Vehículos premium y gestión de salas de exhibición para tu concesionario."
+  },
+  "collections": {
+    "title": "Mis colecciones de exhibición",
+    "vehicles": "Vehículos de esta sala",
+    "vehicle-name": "Nombre del vehículo",
+    "no-vehicles": "Sin vehículos",
+    "no-sections": "No hay secciones de exhibición",
+    "total-vehicles": "Total de vehículos",
+    "available-capacity": "Capacidad disponible"
+  },
+  "inventory": {
+    "title": "Nuevo registro de inventario vehicular",
+    "subtitle": "Agrega vehículos al inventario de tu colección",
+    "section": "Sección de exhibición",
+    "vehicle": "Vehículo",
+    "quantity": "Cantidad",
+    "select-section": "Selecciona una sección de exhibición",
+    "select-vehicle": "Selecciona un vehículo",
+    "no-vehicles": "No hay vehículos disponibles para esta categoría.",
+    "section-full": "Esta sección no tiene capacidad disponible.",
+    "section-details": "Detalles de la sección",
+    "category": "Categoría del vehículo",
+    "automatic-data": "Los datos del vehículo y la fecha de registro se completan automáticamente."
+  },
+  "actions": {
+    "create": "Crear",
+    "cancel": "Cancelar",
+    "retry": "Reintentar",
+    "back-home": "Volver al inicio"
+  },
+  "status": {
+    "loading": "Cargando colecciones de exhibición"
+  },
+  "not-found": {
+    "title": "Página no encontrada",
+    "message": "No se encontró la ruta solicitada {path}."
+  },
+  "errors": {
+    "showroom-load": "No se pudieron cargar los datos. Verifica que JSON Server esté ejecutándose.",
+    "catalog-load": "No se pudo consultar el catálogo. Verifica tu conexión y vuelve a intentarlo.",
+    "inventory-save": "No se pudo guardar el registro. Vuelve a intentarlo.",
+    "section-required": "Selecciona una sección de exhibición válida.",
+    "vehicle-required": "Selecciona un vehículo de la categoría de la sección.",
+    "invalid-quantity": "La cantidad debe ser un número entero positivo.",
+    "capacity-exceeded": "La cantidad supera la capacidad disponible actual."
+  }
+}

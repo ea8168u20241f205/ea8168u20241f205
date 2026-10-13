@@ -1,0 +1,58 @@
+{
+  "navigation": {
+    "main": "Main navigation",
+    "toolbar": "Application toolbar",
+    "workspace": "Workspace",
+    "language": "Language",
+    "open-menu": "Open navigation"
+  },
+  "home": {
+    "title": "Home",
+    "subtitle": "Premium Vehicles & Showroom Management Delivered to Your Dealership."
+  },
+  "collections": {
+    "title": "My Showroom Collections",
+    "vehicles": "Vehicles in this showroom",
+    "vehicle-name": "Vehicle name",
+    "no-vehicles": "No Vehicles",
+    "no-sections": "No Showroom Sections",
+    "total-vehicles": "Total Vehicles",
+    "available-capacity": "Available Capacity"
+  },
+  "inventory": {
+    "title": "New Vehicle Inventory Item",
+    "subtitle": "Add Vehicle Inventory Items to Your Collection",
+    "section": "Showroom section",
+    "vehicle": "Vehicle",
+    "quantity": "Quantity",
+    "select-section": "Select a showroom section",
+    "select-vehicle": "Select a vehicle",
+    "no-vehicles": "No vehicles available for this category.",
+    "section-full": "This section has no available capacity.",
+    "section-details": "Section details",
+    "category": "Vehicle category",
+    "automatic-data": "Vehicle data and registration time are completed automatically."
+  },
+  "actions": {
+    "create": "Create",
+    "cancel": "Cancel",
+    "retry": "Retry",
+    "back-home": "Return to Home"
+  },
+  "status": {
+    "loading": "Loading showroom collections"
+  },
+  "not-found": {
+    "title": "Page Not Found",
+    "message": "The requested route {path} was not found."
+  },
+  "errors": {
+    "showroom-load": "Unable to load showroom data. Check that JSON Server is running.",
+    "catalog-load": "Unable to retrieve the vehicle catalog. Check your connection and try again.",
+    "inventory-save": "The inventory item could not be saved. Please try again.",
+    "section-required": "Select a valid showroom section.",
+    "vehicle-required": "Select a vehicle from the section category.",
+    "invalid-quantity": "Quantity must be a positive whole number.",
+    "capacity-exceeded": "Quantity exceeds the current available capacity."
+  }
+}
