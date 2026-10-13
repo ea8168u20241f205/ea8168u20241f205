@@ -9,9 +9,6 @@ A Vue application for showroom collections and capacity-aware vehicle inventory 
 - NRC: 8168
 - Project: ea8168u20241f205
 
-## Authorship
-
-This practice implementation was generated with AI assistance at the user's request. It is not evidence of independent work completed during the assessment. The exercise prohibits agentic AI during evaluation; follow your institution's rules. Private GitHub repository URL: not supplied. Add the actual private repository URL before any permitted submission; no repository or commit history is fabricated here.
 
 ## Stack
 
